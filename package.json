@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@yayawallet/node-sdk": "^1.4.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.0"
+  }
+}
